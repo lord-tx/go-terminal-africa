@@ -1,0 +1,24 @@
+# Binaries for SDK / CLI
+*.exe
+*.exe-
+*.dll
+*.so
+*.dylib
+
+# Test binary created by `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (vendor/)
+vendor/
+
+# Environment files
+.env
+.env.*
+
+# IDE / OS specific files
+.DS_Store
+.vscode/
+.idea/
