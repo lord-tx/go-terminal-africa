@@ -1,6 +1,6 @@
 # go-terminal-africa
 
-Official Golang client SDK for the [Terminal Africa API](https://terminal.africa).
+Golang client SDK for the [Terminal Africa API](https://terminal.africa). Ported to Golang from [danielozeh/node-terminal-africa](https://github.com/danielozeh/node-terminal-africa).
 
 Terminal Africa is a shipping and logistics aggregation API supporting carriers such as DHL, FedEx, GIG Logistics, Kwik, Aramex, Dellyman, UPS, and more across Africa.
 
