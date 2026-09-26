@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	terminal "github.com/danielozeh/go-terminal-africa"
+	terminal "github.com/lord-tx/go-terminal-africa"
 )
 
 func TestClaimService(t *testing.T) {

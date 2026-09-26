@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	terminal "github.com/danielozeh/go-terminal-africa"
+	terminal "github.com/lord-tx/go-terminal-africa"
 )
 
 func TestNewClient(t *testing.T) {

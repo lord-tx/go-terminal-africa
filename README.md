@@ -14,7 +14,7 @@ Terminal Africa is a shipping and logistics aggregation API supporting carriers 
 ## Installation
 
 ```bash
-go get github.com/danielozeh/go-terminal-africa
+go get github.com/lord-tx/go-terminal-africa
 ```
 
 ## Quick Start
@@ -29,7 +29,7 @@ import (
 	"fmt"
 	"log"
 
-	terminal "github.com/danielozeh/go-terminal-africa"
+	terminal "github.com/lord-tx/go-terminal-africa"
 )
 
 func main() {
